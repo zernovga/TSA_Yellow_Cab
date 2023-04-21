@@ -1,0 +1,7 @@
+pandas
+numpy==1.23.5
+scipy
+matplotlib
+tqdm
+numba
+datetime
